@@ -14,6 +14,5 @@ void draw() {
   strokeWeight(8);
   arc(mouseX, mouseY, 25, 35, radians(-90), radians(90));
 
-  save("REFERENCE-SetupDrawTEXT.png");
   
 }
